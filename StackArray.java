@@ -1,3 +1,4 @@
+//Array implementation of stack in java
 import java.util.*;
 
 class MyStack{
