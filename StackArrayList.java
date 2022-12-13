@@ -1,3 +1,4 @@
+//ArrayList implementation of stack in Java
 import java.util.*;
 
 class MyStack{
@@ -36,3 +37,4 @@ class MyStack{
 		System.out.println(s.size());
 	}
 }
+//OverFlow and Underflow conditions can be checked by adding if / else blocks. 
