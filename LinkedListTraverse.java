@@ -1,3 +1,4 @@
+//TRAVERSING A SINGLY LINKED LIST
 import java.util.*;
 
 class Node{
@@ -17,6 +18,7 @@ class MyLinkedList{
 			curr = curr.next;
 		}
 	}
+	//recursive
 	static void rPrintList(Node head){
 		if(head==null){
 			return;
