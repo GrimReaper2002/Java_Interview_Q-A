@@ -1,3 +1,4 @@
+//IMPLEMENTATION OF QUEUE FROM COLLECTION FRAMEWORK
 import java.util.*;
 
 class MyQueue{
